@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 张一清的部落阁</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Posts on 张一清的部落阁</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 May 2022 18:42:58 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTTP请求拦截案例</title>
+      <link>https://example.com/post/super3gits/</link>
+      <pubDate>Tue, 10 May 2022 18:42:58 +0000</pubDate>
+      
+      <guid>https://example.com/post/super3gits/</guid>
+      <description>一次抓包以及http请求拦截方式的案例
+过程中使用到的工具： Fiddler、Postman、Jpexs-decompiler、NodeJS HTTP请求分析 打开fiddler，然后我们对游戏进行一次兑换操作。这样即可在fiddler左侧列表得到游戏对HTTP的请求操作 而我们所需要的便是对最后一行HTTP请求进行分析:
+1 2 3 4 5 6 7 8 9 10 11 12 13 POST http://my.4399.com/jifen/activation HTTP/1.1 Host: my.4399.com Connection: keep-alive Content-Length: 76 User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Content-Type: application/x-www-form-urlencoded Accept: */* Origin: http://sbai.4399.com X-Requested-With: ShockwaveFlash/32.0.0.465 Referer: http://sbai.4399.com/4399swf/upload_swf/ftp14/cwb/20140214/chj/etjv1130.swf/[[DYNAMIC]]/4 Accept-Encoding: gzip, deflate Accept-Language: zh-CN,zh;q=0.9 Cookie: *** 从抓到的数据中，我们可以轻松的得出这是一个使用HTTP/1.1协议的 POST 请求。 确定了请求方式以后，我们再打开PostMan模拟一次POST请求，来观察得到的数据。 对数据进行转码后我们即可得到一串JSON：
+1 {&amp;#34;code&amp;#34;:101,&amp;#34;result&amp;#34;:[],&amp;#34;msg&amp;#34;:&amp;#34;参数错误&amp;#34;} SWF逆向分析 在得到这串数据后，我们的逆向分析操作便可以开始了。对游戏进行抓包得到SWF的方法就不过多赘述，我们直接进行逆向分析。
+回想第一步操作，我们在对游戏进行兑换时，游戏进行了对话框提示，内容为 参数错误！无法兑换! 既然有了字符串，那先不管这串字符在SWF中是否被加密，先对其进行搜索。 果不其然，在搜索到的唯一一项结果中，可以很明显的判断出这就是兑换礼包的AS代码 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 var code0:int = JSON2.</description>
+    </item>
+    
+  </channel>
+</rss>
