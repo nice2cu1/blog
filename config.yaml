@@ -1,5 +1,5 @@
 baseurl: "https://example.com"
-languageCode: "en-us"
+languageCode: "zh"
 title: "张一清的部落阁"
 theme: "hugo-tania"
 paginate: 6
