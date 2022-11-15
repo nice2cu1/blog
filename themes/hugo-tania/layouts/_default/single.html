@@ -34,15 +34,15 @@
     {{ if .Section }}
     <nav class="flex container suggested">
         {{ with .PrevInSection }}
-        <a rel="prev" href="{{ .RelPermalink }}" title="Previous post (older)">
-            <span>Previous</span>
+        <a rel="prev" href="{{ .RelPermalink }}" title="返回上一页">
+            <span>上一页</span>
             {{ .Title }}
             </a>
         {{ end }}
         
         {{ with .NextInSection }}
-        <a rel="next" href="{{ .RelPermalink }}" title="Next post (newer)">
-            <span>Next</span>
+        <a rel="next" href="{{ .RelPermalink }}" title="进入下一页">
+            <span>下一页</span>
             {{ .Title }}
             </a> 
         {{ end }}
