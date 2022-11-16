@@ -7,7 +7,7 @@ $code-font-family: Consolas, Monaco, Menlo, "DejaVu Sans Mono",
 
 code, pre {
     font-size: $code-font-size;
-    font-family: var(--code-font-family);
+    font-family: $code-font-family;
     background: $code-background;
 }
 
@@ -36,7 +36,7 @@ pre > code {
     background: $code-background;
 
     code {
-      padding: 40px 10px 10px;
+      padding: 30px 10px 10px;
     }
 
     code[data-lang]::before {
@@ -72,7 +72,7 @@ pre > code {
   
         pre {
           margin: 0;
-          padding: 40px 7px 10px;
+          padding: 30px 7px 10px;
         }
       }
   
@@ -81,7 +81,7 @@ pre > code {
   
         pre {
           margin: 0;
-          padding: 40px 10px 10px;
+          padding: 30px 10px 10px;
         }
       }
     }

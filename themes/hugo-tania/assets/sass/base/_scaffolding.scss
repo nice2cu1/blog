@@ -1,7 +1,9 @@
 /* Scaffolding */
 
 html {
-    font-family: var(--base-font-family);
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Roboto',
+        Roboto, Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI',
+        'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
     color: var(--font-color);
     font-weight: 400;
     font-size: 1rem;
@@ -42,6 +44,7 @@ section>h2 {
 }
 
 @media screen and (min-width: 800px) {
+
     .index h2,
     section>h2 {
         border-bottom-width: 4px;
@@ -79,7 +82,7 @@ a.section-button {
 }
 
 .container {
-    max-width: 830px;
+    max-width: 825px;
     padding: 0 1.5rem;
     margin-left: auto;
     margin-right: auto;
@@ -111,15 +114,12 @@ blockquote {
     margin: 0 0 1.5rem 0;
 }
 
-blockquote p {
-    margin: 0;
-}
-
 ul {
     padding: 0 1rem;
 }
 
 @media screen and (min-width: 800px) {
+
     p,
     ol,
     ul,
@@ -161,6 +161,10 @@ blockquote {
     background: var(--blockquote);
     font-weight: 400;
     border-left: 5px solid var(--blockquote-left);
+    p,ol{
+        margin-bottom: 0;
+    }
+
 }
 
 blockquote :not(pre)>code[class*='language-'] {
@@ -169,7 +173,8 @@ blockquote :not(pre)>code[class*='language-'] {
 
 @media screen and (min-width: 800px) {
     blockquote {
-        padding: 2rem 0 2rem 2rem;
+        //padding: 2rem 0 2rem 2rem;
+        padding: 1rem;
     }
 }
 
