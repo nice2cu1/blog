@@ -3,14 +3,13 @@ title: HTTP请求拦截案例
 date: 2022-05-10
 ---
 
-一次抓包以及http请求拦截方式的案例
-
+一次抓包以及HTTP请求拦截方式的案例
+<!--more-->
 
 
 ## 过程中使用到的工具： Fiddler、Postman、Jpexs-decompiler、NodeJS
 
 ![完成效果](https://s1.ax1x.com/2022/05/10/ONYOde.jpg)
-<!-- more -->
 
 
 ## HTTP请求分析
