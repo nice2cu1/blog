@@ -6,13 +6,6 @@ body {
   margin: 0;
 }
 
-@font-face {
-	font-family: 'PingFang SC';
-	font-weight: 600;
-	font-display: swap;
-	src: url("../font/pingfang.woff") format('woff2');
-}
-
 .Header {
   display: flex;
   align-items: center;
