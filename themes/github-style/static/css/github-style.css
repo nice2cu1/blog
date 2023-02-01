@@ -6,6 +6,14 @@ body {
   margin: 0;
 }
 
+@font-face {
+	font-family: 'PingFang';
+	font-weight: 500;
+	font-display: auto;
+	src: url("../font/pingfang.woff") format('woff');
+}
+
+
 .Header {
   display: flex;
   align-items: center;
