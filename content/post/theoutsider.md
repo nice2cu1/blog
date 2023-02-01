@@ -53,4 +53,4 @@ Outer Wilds The Outsider for Chinese Patch
 ### 如果你有意愿帮助修复存在于飞船日志的显示问题，请查看：
 > [TheOutsider_CN](https://github.com/nice2cu1/TheOutsider_CN)
 >
-> [OuterWildFixFont](https://kgithub.com/nice2cu1/OuterWildFixFont)
+> [OuterWildFixFont](https://github.com/nice2cu1/OuterWildFixFont)
