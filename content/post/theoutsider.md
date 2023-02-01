@@ -39,7 +39,7 @@ Outer Wilds The Outsider for Chinese Patch
 
 ### BUG：
 >因为Mod作者并未提供官方翻译渠道，issues里虽然提及过[翻译计划](https://github.com/StreetlightsBehindTheTrees/Outer-Wilds-The-Outsider/issues/7)，但在不久前仓库存档了，所以我才开始了我的翻译之旅。
-> - 游戏启动会有明显**卡顿**或*未响应*的情况，此为正常现象，故事Mod资源较大，请耐心等待。
+> - 游戏启动会有明显**卡顿**或**未响应**的情况，此为正常现象，故事Mod资源较大，请耐心等待。
 >
 > - 由于中文字库缺失的问题，在**对话模块**以及**挪麦文字翻译器**两个场景已成功解决，但并不代表可能出现的未知问题。
 >
@@ -47,7 +47,7 @@ Outer Wilds The Outsider for Chinese Patch
 >
 >   具体体现为：
 >   - 打开日志**也许**会存在明显卡顿 
->   - **日志显示会有缺失现象，请不要试图在飞船日志捋清故事**
+>   - **日志显示会有缺失现象，不要试图在飞船日志捋清故事，如果可以，尽量不要去观看日志（我自己都不想面对，哈哈）**
 
 ### 如果你有意愿帮助修复存在于飞船日志的显示问题，请查看：
 > [TheOutsider_CN](https://github.com/nice2cu1/TheOutsider_CN)
