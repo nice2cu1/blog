@@ -8,6 +8,8 @@ Outer Wilds The Outsider for Chinese Patch
 
 **请前往Github Release页下载Mod**
 
+**请将原来的Mod文件夹删除，否则会出现冲突**
+
 **将解压好的两个文件夹放于Mod Directory下**
 
 **整个项目仅经过简单测试，未过完全流程，请做好翻车的准备**
