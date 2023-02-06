@@ -21,7 +21,7 @@ Outer Wilds The Outsider for Chinese Patch
 
 >### 如果你无法正常访问Github，请选择以下三种方式：
 >
-> - [KGithub](https://help.github.com)镜像：
+> - [KGithub](http://help.github.com)镜像：
 >
 >   故事：[Outer-Wilds-The-Outsider](https://github.com/nice2cu1/Outer-Wilds-The-Outsider/releases/tag/v1)
 >
@@ -58,3 +58,8 @@ Outer Wilds The Outsider for Chinese Patch
 > [TheOutsider_CN](https://github.com/nice2cu1/TheOutsider_CN)
 >
 > [OuterWildFixFont](https://github.com/nice2cu1/OuterWildFixFont)
+
+
+
+## 2023/2/7
+>最近不会有修复更新，出现问题请大家将就一下，哈哈，我这段时间实在是没什么精力去研究这个。
