@@ -8,9 +8,9 @@ Outer Wilds The Outsider for Chinese Patch
 
 **请前往Github Release页下载Mod**
 
-**请将原来的Mod文件夹删除，否则会出现冲突**
+**请将原Mod删除后使用**
 
-**将解压好的两个文件夹放于Mod Directory下**
+**将解压好的两个文件夹放于Mod Directory（Mod 文件夹）下**
 
 **整个项目仅经过简单测试，未过完全流程，请做好翻车的准备**
 
@@ -21,11 +21,11 @@ Outer Wilds The Outsider for Chinese Patch
 
 >### 如果你无法正常访问Github，请选择以下三种方式：
 >
-> - [KGithub](https://help.kgithub.com)镜像：
+> - [KGithub](https://help.github.com)镜像：
 >
->   故事：[Outer-Wilds-The-Outsider](https://kgithub.com/nice2cu1/Outer-Wilds-The-Outsider/releases/tag/v1)
+>   故事：[Outer-Wilds-The-Outsider](https://github.com/nice2cu1/Outer-Wilds-The-Outsider/releases/tag/v1)
 >
->   中文字体补丁：[OuterWildFixFont](https://kgithub.com/nice2cu1/OuterWildFixFont/releases/tag/v1)
+>   中文字体补丁：[OuterWildFixFont](https://github.com/nice2cu1/OuterWildFixFont/releases/tag/v1)
 >   >  字体（iOS16港版苹方简）来自微信公众号：**犬神志**
 >
 > - [Github文件加速服务](https://github.nice2cu1.top)
