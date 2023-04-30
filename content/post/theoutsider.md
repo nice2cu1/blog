@@ -19,9 +19,9 @@ Outer Wilds The Outsider for Chinese Patch
 > 
 > v2版本我已通过全流程，感觉没什么大的问题了，请放心食用！！
 
-故事：[Outer-Wilds-The-Outsider](https://kgithub.com/nice2cu1/Outer-Wilds-The-Outsider/releases)
+故事：[Outer-Wilds-The-Outsider](https://github.com/nice2cu1/Outer-Wilds-The-Outsider/releases)
 
-中文字体补丁：[OuterWildFixFont](https://kgithub.com/nice2cu1/OuterWildFixFont/releases)
+中文字体补丁：[OuterWildFixFont](https://github.com/nice2cu1/OuterWildFixFont/releases)
 
 
 >### 如果你无法正常访问Github，请选择以下三种方式：
