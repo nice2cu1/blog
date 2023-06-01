@@ -28,14 +28,16 @@ Outer Wilds The Outsider for Chinese Patch
 >
 > - [KGithub](http://help.github.com)镜像：
 >
->   故事：[Outer-Wilds-The-Outsider](https://kgithub.com/nice2cu1/Outer-Wilds-The-Outsider/releases)
+>   故事：[Outer-Wilds-The-Outsider](https://github.com/nice2cu1/Outer-Wilds-The-Outsider/releases)
 >
->   中文字体补丁：[OuterWildFixFont](https://kgithub.com/nice2cu1/OuterWildFixFont/releases)
+>   中文字体补丁：[OuterWildFixFont](https://github.com/nice2cu1/OuterWildFixFont/releases)
 >   >  字体（iOS16港版苹方简）来自微信公众号：**犬神志**
 >
 > - [Github文件加速服务](https://github.nice2cu1.top)
 >
 > - [阿里云盘](https://www.aliyundrive.com/s/fKV3QL7fNVz)
+>
+> - [Alist（仅支持ipv6访问）](http://server.nice2cu1.top:5244/Outer-Wilds-The-Outsider)
 
 
 ### 译文来源：
