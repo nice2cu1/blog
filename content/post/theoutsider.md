@@ -33,7 +33,9 @@ Outer Wilds The Outsider for Chinese Patch
 >   中文字体补丁：[OuterWildFixFont](https://kgithub.com/nice2cu1/OuterWildFixFont/releases)
 >   >  字体（iOS16港版苹方简）来自微信公众号：**犬神志**
 >
-> - [Github文件加速服务](https://github.nice2cu1.top)
+> - [Github文件加速服务1](https://github.nice2cu1.top)
+>
+> - [Github文件加速服务2](http://server.nice2cu1.live:8080/)
 >
 > - [阿里云盘](https://www.aliyundrive.com/s/fKV3QL7fNVz)
 >
