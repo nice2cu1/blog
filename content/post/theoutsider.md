@@ -14,6 +14,12 @@ Outer Wilds The Outsider for Chinese Patch
 
 ~~**整个项目仅经过简单测试，未过完全流程，请做好翻车的准备**~~
 
+## 2023/7/9
+
+### 现在，你可以选择更更更更更为先进的翻译模组[TranslationForTheOutsider](https://outerwildsmods.com/mods/translationandpatchesfortheoutsider/)
+
+### 只需在OuterWildsModManager中找到The Outsider的依赖Translation and Patches for The Outsider即可安装，省时省力，简单快捷，强烈推荐
+
 ## 2023/3/24
 > 请选择更为先进的v2版本，故事mod以及字体补丁都做了更新修复！
 > 
