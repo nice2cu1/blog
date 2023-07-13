@@ -10,10 +10,9 @@ Outer Wilds Mod Database
 星际拓荒Mod数据库镜像 三选一
 
 
-可以增加有限的下载速度
+能够增加有限的下载速度，也许是减速也说不定，请优先考虑爬梯子。
 
-
-
+公益节点，速度无法保证
 
 http://cloud.nice2cu1.live:8000/nice2cu1-ow-mod-db/database.json
 
