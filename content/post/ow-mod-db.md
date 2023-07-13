@@ -1,3 +1,8 @@
+---
+title: 星际拓荒Mod数据库镜像
+date: 2023/7/13
+---
+
 Outer Wilds Mod Database
 
 星际拓荒Mod数据库镜像 三选一
